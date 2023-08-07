@@ -1,0 +1,405 @@
+{
+  "budget": 220,
+  "properties": [
+    {
+      "id": "property-1",
+      "renovations": [
+        {
+                "id": "fresh-paint",
+                "effect": 10,
+                "cost": 0
+        },
+        {
+          "id": "bathroom",
+          "effect": 5,
+          "cost": 1
+        },
+        {
+          "id": "garage",
+          "effect": 11,
+          "cost": 2
+        },
+        {
+          "id": "kitchen",
+          "effect": 25,
+          "cost": 3
+        }
+      ]
+    },
+    {
+      "id": "property-2",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 3,
+          "cost": 2
+        },
+        {
+          "id": "master-bedroom",
+          "effect": 5,
+          "cost": 3
+        }
+      ]
+    },
+    {
+      "id": "property-3",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 28,
+          "cost": 3
+        },
+        {
+          "id": "garage",
+          "effect": 32,
+          "cost": 4
+        },
+        {
+          "id": "kitchen",
+          "effect": 34,
+          "cost": 5
+        },
+        {
+          "id": "additional-dwelling-unit",
+          "effect": 36,
+          "cost": 8
+        }
+      ]
+    },
+    {
+      "id": "property-4",
+      "renovations": [
+        {
+          "id": "garage",
+          "effect": 11,
+          "cost": 5
+        },
+        {
+          "id": "kitchen",
+          "effect": 13,
+          "cost": 6
+        }
+      ]
+    },
+    {
+      "id": "property-5",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 14,
+          "cost": 5
+        },
+        {
+          "id": "garage",
+          "effect": 17,
+          "cost": 6
+        },
+        {
+          "id": "kitchen",
+          "effect": 25,
+          "cost": 7
+        }
+      ]
+    },
+    {
+      "id": "property-6",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 22,
+          "cost": 6
+        },
+        {
+          "id": "kitchen",
+          "effect": 27,
+          "cost": 8
+        }
+      ]
+    },
+    {
+      "id": "property-7",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 5,
+          "cost": 7
+        },
+        {
+          "id": "garage",
+          "effect": 8,
+          "cost": 8
+        },
+        {
+          "id": "kitchen",
+          "effect": 11,
+          "cost": 9
+        }
+      ]
+    },
+    {
+      "id": "property-8",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 15,
+          "cost": 8
+        },
+        {
+          "id": "garage",
+          "effect": 18,
+          "cost": 9
+        },
+        {
+          "id": "kitchen",
+          "effect": 20,
+          "cost": 10
+        }
+      ]
+    },
+    {
+      "id": "property-9",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 3,
+          "cost": 9
+        },
+        {
+          "id": "garage",
+          "effect": 11,
+          "cost": 10
+        },
+        {
+          "id": "kitchen",
+          "effect": 14,
+          "cost": 11
+        }
+      ]
+    },
+    {
+      "id": "property-10",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 19,
+          "cost": 10
+        },
+        {
+          "id": "garage",
+          "effect": 21,
+          "cost": 11
+        },
+        {
+          "id": "kitchen",
+          "effect": 25,
+          "cost": 12
+        }
+      ]
+    },
+    {
+      "id": "property-11",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 33,
+          "cost": 11
+        },
+        {
+          "id": "garage",
+          "effect": 34,
+          "cost": 12
+        },
+        {
+          "id": "kitchen",
+          "effect": 37,
+          "cost": 13
+        }
+      ]
+    },
+    {
+      "id": "property-12",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 21,
+          "cost": 12
+        },
+        {
+          "id": "garage",
+          "effect": 23,
+          "cost": 13
+        },
+        {
+          "id": "kitchen",
+          "effect": 25,
+          "cost": 14
+        }
+      ]
+    },
+    {
+      "id": "property-13",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 25,
+          "cost": 13
+        },
+        {
+          "id": "garage",
+          "effect": 27,
+          "cost": 14
+        },
+        {
+          "id": "kitchen",
+          "effect": 29,
+          "cost": 15
+        }
+      ]
+    },
+    {
+      "id": "property-14",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 7,
+          "cost": 14
+        },
+        {
+          "id": "garage",
+          "effect": 11,
+          "cost": 15
+        },
+        {
+          "id": "kitchen",
+          "effect": 20,
+          "cost": 16
+        }
+      ]
+    },
+    {
+      "id": "property-15",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 21,
+          "cost": 15
+        },
+        {
+          "id": "garage",
+          "effect": 24,
+          "cost": 16
+        },
+        {
+          "id": "kitchen",
+          "effect": 25,
+          "cost": 17
+        }
+      ]
+    },
+    {
+      "id": "property-16",
+      "renovations": [
+        {
+          "id": "fresh-paint",
+          "effect": 6,
+          "cost": 1
+        },
+        {
+          "id": "bathroom",
+          "effect": 3,
+          "cost": 16
+        },
+        {
+          "id": "garage",
+          "effect": 6,
+          "cost": 17
+        },
+        {
+          "id": "kitchen",
+          "effect": 9,
+          "cost": 18
+        }
+      ]
+    },
+    {
+      "id": "property-17",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 11,
+          "cost": 17
+        },
+        {
+          "id": "garage",
+          "effect": 9,
+          "cost": 18
+        },
+        {
+          "id": "kitchen",
+          "effect": 13,
+          "cost": 19
+        }
+      ]
+    },
+    {
+      "id": "property-18",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 3,
+          "cost": 18
+        },
+        {
+          "id": "garage",
+          "effect": 7,
+          "cost": 19
+        },
+        {
+          "id": "kitchen",
+          "effect": 12,
+          "cost": 20
+        }
+      ]
+    },
+    {
+      "id": "property-19",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 25,
+          "cost": 19
+        },
+        {
+          "id": "garage",
+          "effect": 26,
+          "cost": 20
+        },
+        {
+          "id": "kitchen",
+          "effect": 33,
+          "cost": 21
+        }
+      ]
+    },
+    {
+      "id": "property-20",
+      "renovations": [
+        {
+          "id": "bathroom",
+          "effect": 21,
+          "cost": 20
+        },
+        {
+          "id": "garage",
+          "effect": 23,
+          "cost": 21
+        },
+        {
+          "id": "kitchen",
+          "effect": 32,
+          "cost": 22
+        }
+      ]
+    }
+  ]
+}

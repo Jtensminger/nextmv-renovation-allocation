@@ -1,0 +1,199 @@
+{
+        "version": {
+                "sdk": "v0.27.1"
+        },
+        "options": {
+                "limits": {
+                        "duration": 10000000000
+                }
+        },
+        "solutions": [
+                {
+                        "assignments": [
+                                {
+                                        "property": "property-1",
+                                        "Renovation_id": "fresh-paint",
+                                        "cost": 0,
+                                        "effect": 10
+                                },
+                                {
+                                        "property": "property-1",
+                                        "Renovation_id": "garage",
+                                        "cost": 2,
+                                        "effect": 11
+                                },
+                                {
+                                        "property": "property-1",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 3,
+                                        "effect": 25
+                                },
+                                {
+                                        "property": "property-2",
+                                        "Renovation_id": "master-bedroom",
+                                        "cost": 3,
+                                        "effect": 5
+                                },
+                                {
+                                        "property": "property-3",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 3,
+                                        "effect": 28
+                                },
+                                {
+                                        "property": "property-3",
+                                        "Renovation_id": "garage",
+                                        "cost": 4,
+                                        "effect": 32
+                                },
+                                {
+                                        "property": "property-3",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 5,
+                                        "effect": 34
+                                },
+                                {
+                                        "property": "property-4",
+                                        "Renovation_id": "garage",
+                                        "cost": 5,
+                                        "effect": 11
+                                },
+                                {
+                                        "property": "property-4",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 6,
+                                        "effect": 13
+                                },
+                                {
+                                        "property": "property-5",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 5,
+                                        "effect": 14
+                                },
+                                {
+                                        "property": "property-5",
+                                        "Renovation_id": "garage",
+                                        "cost": 6,
+                                        "effect": 17
+                                },
+                                {
+                                        "property": "property-5",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 7,
+                                        "effect": 25
+                                },
+                                {
+                                        "property": "property-6",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 6,
+                                        "effect": 22
+                                },
+                                {
+                                        "property": "property-6",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 8,
+                                        "effect": 27
+                                },
+                                {
+                                        "property": "property-8",
+                                        "Renovation_id": "garage",
+                                        "cost": 9,
+                                        "effect": 18
+                                },
+                                {
+                                        "property": "property-8",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 10,
+                                        "effect": 20
+                                },
+                                {
+                                        "property": "property-10",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 10,
+                                        "effect": 19
+                                },
+                                {
+                                        "property": "property-10",
+                                        "Renovation_id": "garage",
+                                        "cost": 11,
+                                        "effect": 21
+                                },
+                                {
+                                        "property": "property-10",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 12,
+                                        "effect": 25
+                                },
+                                {
+                                        "property": "property-11",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 11,
+                                        "effect": 33
+                                },
+                                {
+                                        "property": "property-11",
+                                        "Renovation_id": "garage",
+                                        "cost": 12,
+                                        "effect": 34
+                                },
+                                {
+                                        "property": "property-11",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 13,
+                                        "effect": 37
+                                },
+                                {
+                                        "property": "property-12",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 12,
+                                        "effect": 21
+                                },
+                                {
+                                        "property": "property-12",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 14,
+                                        "effect": 25
+                                },
+                                {
+                                        "property": "property-13",
+                                        "Renovation_id": "bathroom",
+                                        "cost": 13,
+                                        "effect": 25
+                                },
+                                {
+                                        "property": "property-13",
+                                        "Renovation_id": "garage",
+                                        "cost": 14,
+                                        "effect": 27
+                                },
+                                {
+                                        "property": "property-13",
+                                        "Renovation_id": "kitchen",
+                                        "cost": 15,
+                                        "effect": 29
+                                },
+                                {
+                                        "property": "property-16",
+                                        "Renovation_id": "fresh-paint",
+                                        "cost": 1,
+                                        "effect": 6
+                                }
+                        ]
+                }
+        ],
+        "statistics": {
+                "schema": "v1",
+                "run": {
+                        "duration": 0.007981803
+                },
+                "result": {
+                        "duration": 0.007981803,
+                        "value": 614,
+                        "custom": {
+                                "columns": 60,
+                                "rows": 21,
+                                "status": "optimal"
+                        }
+                }
+        }
+}
